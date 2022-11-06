@@ -23,7 +23,7 @@ function createCardGame(scorePlayer1, scorePlayer2) {
       <img src="./assets/logo-brazil.svg"
       alt="Logo tipo da bandeira Brasileira, em Verde e Amarelo, com um globo azul e uma faixa branca escrito Ordem e Progresso.">
       <strong>08:00</strong>
-      <img src="/assets/logo-cameroon.svg"
+      <img src="./assets/logo-cameroon.svg"
       alt="Logo tipo da bandeira Cameroon, nas cores verdes, vermelhas e amarelas, com
      uma estrela amarelada no meio.">
       <strong>${scorePlayer2}</strong>

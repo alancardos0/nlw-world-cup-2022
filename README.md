@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar o projeto](https://maykbrito.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar o projeto](https://alancardos0.github.io/project-nlw-world-cup-2022/)
 
 [🔗 Clique aqui para acessar o conteúdo RockeatSeat](https://app.rocketseat.com.br/event/nlw-copa)
 

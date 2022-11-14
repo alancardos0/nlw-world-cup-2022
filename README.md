@@ -19,4 +19,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 🌹 Contato
 
-alammateus077@gmail.com
+alanmatheus1542@gmail.com
